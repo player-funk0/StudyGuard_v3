@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StudyGuard</string>
+    <string name="channel_name">Study Timer</string>
+    <string name="channel_description">Shows remaining time during study sessions</string>
+    <string name="completion_channel_name">Timer Completion</string>
+    <string name="completion_channel_description">Notifies when a study session completes</string>
+    <string name="notification_title">Study Session Active</string>
+    <string name="timer_complete">Study session complete!</string>
+    <string name="timer_complete_message">Great job! Your study session has finished.</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Resume</string>
+    <string name="action_stop">Stop</string>
+</resources>
